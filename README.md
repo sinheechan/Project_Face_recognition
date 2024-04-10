@@ -1,5 +1,7 @@
 # Face_recognition
 
+프로젝트 보류
+
 # Download
 
 1. shape_predictor_68_face_landmarks.dat
